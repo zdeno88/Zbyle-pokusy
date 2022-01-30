@@ -1,0 +1,3 @@
+Adam,1,Chrudim
+Filip,5,Koci
+Marek,10,Orel
